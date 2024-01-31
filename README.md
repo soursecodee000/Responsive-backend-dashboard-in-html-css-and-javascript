@@ -12,7 +12,7 @@ This project is a social media dashboard created with HTML, CSS, and JavaScript.
 
 ## Demo
 
-You can view a live demo of the social media dashboard [here](link-to-live-demo).
+You can view a live demo of the social media dashboard:: https://backend-dashboard-in-html-css-and-javascript.vercel.app/
 
 ## Prerequisites
 
